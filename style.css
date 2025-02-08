@@ -17,6 +17,14 @@ body {
   transform: translate(-50%);
 }
 
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
 .qr-card {
   position: absolute;
   left: 50%;
